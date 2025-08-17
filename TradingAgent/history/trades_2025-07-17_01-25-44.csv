@@ -1,0 +1,2 @@
+EntryTimestamp,ExitTimestamp,EntryPrice,ExitPrice,PNL,EntryIndex,ExitIndex,Strategy,Win
+1752636600000,1752691500000,0.08590,0.08780,0.00190,20,81,EmaRsiTrendStrategy,true
